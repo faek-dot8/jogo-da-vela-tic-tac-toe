@@ -1,2 +1,18 @@
-# jogo-da-vela-tic-tac-toe
-❌⭕ Tic Tac Toe game built with Python, featuring move validation and win detection./ ❌⭕ Jogo da Velha desenvolvido em Python, com validação de movimentos e detecção de vitórias.
+# ❌⭕ Tic Tac Toe
+
+Uma implementação do clássico jogo da velha (Tic Tac Toe) desenvolvida em Python para ser jogada diretamente pelo terminal.
+
+## 📌 Sobre
+
+Este projeto foi criado com o objetivo de praticar lógica de programação, estruturas condicionais, laços de repetição e manipulação de listas em Python.
+
+## 🚀 Tecnologias
+
+- Python 3
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/faek-dot8/tic-tac-toe.git
